@@ -1,0 +1,3 @@
+﻿welcome:Welcome
+start:Start
+end:End
